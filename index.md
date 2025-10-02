@@ -27,7 +27,6 @@ Currently seeking internship opportunities where I can apply analytical and prob
 ## Experience
 
 **Founding President - Financial Literacy Club **   <img src="/white logo(1).JPG" width="40"> 
-
 **Summer Intern - Emerge Elite LTD**  <img src="/Emerge.JPG" width="40"> 
 ---
 
