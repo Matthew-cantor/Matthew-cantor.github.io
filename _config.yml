@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: daattali/beautiful-jekyll
+plugins:
+  - jekyll-remote-theme
+
 title: "Matthew — Personal Site"
 description: "Second Year Student @ Schulich School of Business"
+url: "https://YOUR-USERNAME.github.io"   # optional
