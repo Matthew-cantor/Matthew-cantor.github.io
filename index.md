@@ -1,6 +1,6 @@
 # Matthew
-I analyze software companies and write notes.
+Looking for work
 
 - [About](/about)
-- [Writing](/posts)
-- [Contact](mailto:you@example.com)
+- [Contact](mailto:matthewcantor06@gmail.com)
+- [Linkedin](www.linkedin.com/in/matthew-cantor-12a786334)
