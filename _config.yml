@@ -1,3 +1,5 @@
-theme: jekyll-minimal-theme
+remote_theme: mmistakes/minimal-mistakes   # example
+plugins:
+  - jekyll-remote-theme
 title: "Matthew — Personal Site"
 description: "Second Year Student @ Schulich School of Business"
