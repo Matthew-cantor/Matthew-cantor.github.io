@@ -23,7 +23,6 @@ Currently seeking internship opportunities where I can apply analytical and prob
 - **Soft Skills:** Communication, teamwork, research, adaptability  
 
 ---
-##
 <!-- EXPERIENCE-START -->
 <style>
   .experience-list { margin: 0; padding: 0; list-style: none; }
