@@ -25,9 +25,35 @@ Currently seeking internship opportunities where I can apply analytical and prob
 ---
 
 ## Experience
+<!-- EXPERIENCE-START -->
+<style>
+  .experience-list { margin: 0; padding: 0; list-style: none; }
+  .experience-item {
+    display: flex; align-items: center; gap: 12px;
+    margin: 10px 0; line-height: 1.3;
+  }
+  .experience-item img {
+    width: 36px; height: 36px; object-fit: contain;
+    image-rendering: -webkit-optimize-contrast;
+  }
+  @media (prefers-color-scheme: dark) {
+    .experience-item img { background: #fff; border-radius: 4px; padding: 2px; }
+  }
+</style>
 
-Founding President - Financial Literacy Club   
-Summer Intern - Emerge Elite LTD  
+<h2 id="experience">Experience</h2>
+<ul class="experience-list">
+  <li class="experience-item">
+    <img src="whitelogo(1).jpg" alt="Financial Literacy Club logo">
+    <div><strong>Founding President</strong> — Financial Literacy Club</div>
+  </li>
+  <li class="experience-item">
+    <img src="emerge.png" alt="Emerge Elite LTD logo">
+    <div><strong>Summer Intern</strong> — Emerge Elite LTD</div>
+  </li>
+</ul>
+<!-- EXPERIENCE-END -->
+
 ---
 
 ## Projects
