@@ -1,2 +1,3 @@
 # About
-Short bio here.
+Second-Year student @ Schulich School of Business 
+
