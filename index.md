@@ -11,25 +11,25 @@ title: "Matthew Cantor"
 ---
 
 ## About Me
-I am a business student with strong interests in finance, strategy, and technology.  
+I am a business student with strong interests in product managment, finance, strategy, and technology.  
 Currently seeking internship opportunities where I can apply analytical and problem-solving skills in a professional setting.  
 
 ---
 
 ## Skills
-- **Finance & Accounting:** Financial modeling, valuation, corporate finance basics  
+- **Finance:** P&L Analysis, Budgeting, DCF Valuation, Variance Analysis, Portfolio Management, ROI Analysis
+- **Accounting:** GAAP, IFRS, Journal Entries, Reconciliations, Internal Controls, Financial Statement Analysis  
 - **Technology:** Excel, Power BI, Python (beginner), GitHub  
 - **Soft Skills:** Communication, teamwork, research, adaptability  
 
 ---
 
 ## Experience
-**Student Consultant — Course Project**  
-*Schulich School of Business (2024)*  
-- Conducted market research for a local startup  
-- Built a presentation deck with strategic recommendations  
-- Delivered insights to client in a team setting  
 
+**Founding President - Financial Literacy Club **   
+
+
+**Summer Intern - Emerge Elite LTD**  
 ---
 
 ## Projects
