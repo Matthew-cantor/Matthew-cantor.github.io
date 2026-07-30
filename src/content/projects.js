@@ -6,6 +6,38 @@
 
 export const projects = [
   {
+    slug: "dynastyvb",
+    title: "Dynasty Volleyball",
+    role: "Web Developer (Contract)",
+    timeframe: "Jun 2026 - Present",
+    tags: ["Web Development", "Astro", "Client Work"],
+    // Rendered as buttons in the case-study hero. First one gets the solid style.
+    links: [{ label: "Visit the live site", href: "https://dynasty-volleyball.ca/" }],
+    summary:
+      "Designed and shipped the marketing site for a new volleyball club - a static Astro build with no client framework, a lead-capture form, and a $0 hosting bill.",
+    cover: "/projects/dynasty-crest.png",
+    coverFit: "contain", // crest - show it whole instead of cropping
+    accentText: "DYNASTY",
+    context:
+      "Dynasty Volleyball Club is a new youth club in Caledon, Ontario that needed a site before its first season. I took the build as contract work: my scope was the website and the technical stack around it, not the club's programming. The client supplied the brand and the program details; I owned everything from the repo to the domain.",
+    problem:
+      "A brand-new club with no staff and no budget for a monthly bill needed a fast, credible site it wouldn't have to maintain. How do you build something that stays up and stays cheap when there's no one to operate it?",
+    approach: [
+      "Chose a static Astro build over a CMS or a React SPA - the content changes a few times a season, so paying a runtime cost on every page load to support edits nobody is making was the wrong trade.",
+      "Shipped no client-side framework. The five pages are prerendered HTML with per-page scoped CSS; the only JavaScript is ~800 bytes inline for the sticky-header IntersectionObserver and the mobile menu.",
+      "Wired lead capture to a Formspree endpoint so form submissions reach the client's inbox with no backend, no database, and no server to keep patched.",
+      "Handled the production details: canonical URLs and Open Graph tags per page, explicit image dimensions to avoid layout shift, a custom 404, and keyboard-accessible nav with proper ARIA state on the menu toggle.",
+      "Deployed to GitHub Pages behind the client's custom domain, so the whole thing runs at no recurring cost beyond the domain itself.",
+    ],
+    outcome: [
+      { stat: "0", label: "External JS files shipped to the browser" },
+      { stat: "5", label: "Pages, fully prerendered at build time" },
+      { stat: "$0", label: "Monthly hosting and infrastructure cost" },
+    ],
+    reflection:
+      "The interesting constraint here wasn't technical difficulty, it was picking a stack the client could survive. Anything with a server, a subscription, or a build I had to babysit would have quietly become my problem forever. Choosing boring, static, and free was the actual engineering decision.",
+  },
+  {
     slug: "promptera",
     title: "Promptera",
     role: "Creator & Developer",

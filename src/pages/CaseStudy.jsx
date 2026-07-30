@@ -43,6 +43,16 @@ export default function CaseStudy() {
             <Meta k="Timeframe" v={project.timeframe} />
             <Meta k="Focus" v={project.tags[0]} />
           </dl>
+
+          {project.links?.length > 0 && (
+            <div className="mt-10 flex flex-wrap gap-3">
+              {project.links.map((l, i) => (
+                <ArrowButton key={l.href} href={l.href} variant={i === 0 ? "solid" : "ghost"}>
+                  {l.label}
+                </ArrowButton>
+              ))}
+            </div>
+          )}
         </Section>
 
         {/* cover band */}
