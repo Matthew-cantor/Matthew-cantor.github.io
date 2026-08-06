@@ -17,11 +17,11 @@ export const site = {
 
   // Home hero + About intro.
   intro:
-    "I'm a Schulich student working in product. I consult for two hockey leagues, replacing a manual scheduling process with something that actually holds up, and I've been a founding product manager at Verified Cars and a marketing and strategy intern at Emerge Elite. On the side I build my own things, from a Chrome extension for better AI prompts to a sourcing company I've run since high school.",
+    "I'm a Schulich student working in product. I consult for two hockey leagues, replacing a manual scheduling process with something that actually holds up, and I've been a founding product manager at a stealth startup and a marketing and strategy intern at Emerge Elite. On the side I build my own things, from a Chrome extension for better AI prompts to a sourcing company I've run since high school.",
 
   aboutLong: [
     "I gravitate to the space where user needs, business goals, and what's technically possible overlap. At YCBHL/GTBHL I'm replacing a manual Excel scheduling process across two leagues - that meant interviewing league admins and team captains, normalizing 680+ time slots into a dataset that could actually be reasoned about, and A/B testing schedule generation logic against real constraints.",
-    "Before that I was a founding PM at Verified Cars, where I designed an API-driven ID verification system to establish trust in a peer-to-peer marketplace, and a marketing and strategy intern at Emerge Elite, where I cut weekly reporting from six hours to two by building dashboards that consolidated campaign KPIs.",
+    "Before that I was a founding PM at a stealth startup, where I designed an API-driven ID verification system to establish trust in a peer-to-peer marketplace, and a marketing and strategy intern at Emerge Elite, where I cut weekly reporting from six hours to two by building dashboards that consolidated campaign KPIs.",
     "Alongside that, I build. I shipped Promptera to the Chrome Web Store, ran a sourcing company to $13K+ in revenue, and founded the York Financial Literacy Club. I care about outcomes over output and decisions over opinions - getting close to a real problem, choosing what's worth building, and measuring whether it worked.",
   ],
 

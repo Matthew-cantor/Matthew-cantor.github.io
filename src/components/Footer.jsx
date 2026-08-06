@@ -8,9 +8,13 @@ export default function Footer() {
         <div className="flex flex-col gap-10 md:flex-row md:items-end md:justify-between">
           <div>
             <Link to="/" className="group inline-flex items-center gap-2.5">
-              <span className="grid h-7 w-7 place-items-center rounded-md bg-signal font-display text-sm font-bold text-ink transition-transform duration-300 group-hover:rotate-6">
-                M
-              </span>
+              <img
+                src="/mclogo.png"
+                alt=""
+                width="28"
+                height="28"
+                className="h-7 w-7 rounded-md object-cover transition-transform duration-300 group-hover:rotate-6"
+              />
               <span className="font-display text-lg font-semibold tracking-tight">
                 {site.name}
               </span>

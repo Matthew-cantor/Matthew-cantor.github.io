@@ -8,7 +8,7 @@ export const projects = [
   {
     slug: "dynastyvb",
     title: "Dynasty Volleyball",
-    role: "Web Developer (Contract)",
+    role: "Web Developer",
     timeframe: "Jun 2026 - Present",
     tags: ["Web Development", "Astro", "Client Work"],
     // Rendered as buttons in the case-study hero. First one gets the solid style.
@@ -19,7 +19,7 @@ export const projects = [
     coverFit: "contain", // crest - show it whole instead of cropping
     accentText: "DYNASTY",
     context:
-      "Dynasty Volleyball Club is a new youth club in Caledon, Ontario that needed a site before its first season. I took the build as contract work: my scope was the website and the technical stack around it, not the club's programming. The client supplied the brand and the program details; I owned everything from the repo to the domain.",
+      "Dynasty Volleyball Club is a new youth club in Caledon, Ontario that needed a site before its first season. My scope was the website and the technical stack around it, not the club's programming. The client supplied the brand and the program details; I owned everything from the repo to the domain.",
     problem:
       "A brand-new club with no staff and no budget for a monthly bill needed a fast, credible site it wouldn't have to maintain. How do you build something that stays up and stays cheap when there's no one to operate it?",
     approach: [
@@ -97,20 +97,20 @@ export const projects = [
       "Importique was my first real lesson in unit economics and trade-offs - every decision had a visible cost, and watching margin respond to my choices is what got me hooked on building products with measurable outcomes.",
   },
   {
-    slug: "verified-cars",
-    title: "Verified Cars",
+    slug: "stealth-startup",
+    title: "Stealth Startup",
     role: "Founding Product Manager",
     timeframe: "Mar 2026 - Jun 2026",
     tags: ["Marketplace", "0→1", "Trust & Safety"],
     summary:
-      "Founding PM on a peer-to-peer car marketplace, designing the identity and trust layer that makes strangers willing to transact.",
-    cover: "/projects/verified-cars-logo.png",
-    coverFit: "contain", // wordmark - show it whole instead of cropping
-    accentText: "VERIFY",
+      "Founding PM on a 0→1 peer-to-peer marketplace, designing the identity and trust layer that makes strangers willing to transact.",
+    cover: "/projects/stealth-logo.jpeg",
+    coverFit: "contain", // logo mark - show it whole instead of cropping
+    accentText: "STEALTH",
     context:
-      "Verified Cars was a 0→1 peer-to-peer marketplace for buying and selling cars directly between individuals. I joined as founding product manager, and the team was selected for the Chai Tech Accelerator, which gave us structured mentorship to pressure-test product strategy.",
+      "A 0→1 peer-to-peer marketplace for high-value transactions between individuals, still operating in stealth. I joined as founding product manager, and the team was selected for the Chai Tech Accelerator, which gave us structured mentorship to pressure-test product strategy.",
     problem:
-      "Peer-to-peer car sales fail on trust, not on listings. How do you make two strangers confident enough to transact on a high-value asset without a dealership in the middle?",
+      "Peer-to-peer transactions fail on trust, not on listings. How do you make two strangers confident enough to transact on a high-value asset without an intermediary in the middle?",
     approach: [
       "Designed an API-driven ID verification system to establish trust between buyers and sellers before any money moved.",
       "Defined user personas and key workflows for both sides of the marketplace, then mapped where fraud risk actually entered the flow.",
@@ -122,7 +122,7 @@ export const projects = [
       { stat: "API", label: "ID verification designed" },
     ],
     reflection:
-      "Verified Cars taught me that in a marketplace, the product isn't the listings - it's the confidence to act on them. Scoping the MVP around verification instead of features was the decision that made the rest of the roadmap legible.",
+      "This taught me that in a marketplace, the product isn't the listings - it's the confidence to act on them. Scoping the MVP around verification instead of features was the decision that made the rest of the roadmap legible.",
   },
 ];
 
